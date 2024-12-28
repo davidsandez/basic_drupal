@@ -1,0 +1,4 @@
+./vendor
+./web/sites/*/settings*.php
+./web/sites/*/files
+config
